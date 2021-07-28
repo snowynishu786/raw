@@ -1,0 +1,80 @@
+{
+    "basics": {
+        "name": "Rakshita Meena",
+        "label": "Student",
+        "email": "2020kucp1127@iiitkota.ac.in",
+        "phone": "",
+        "summary": "I'm a student of Indian Institute of Information technology,Kota (India), persuing my B.tech in Computer Science & engineering.",
+        "location": {
+            "address": "Jaipur",
+            "postalCode": "302017",
+            "city": "Jaipur",
+            "countryCode": " India",
+            "region": "Rajasthan"
+        },
+        "profiles": [
+            {
+                "network": "Twitter",
+                "username": "snowy_nishu",
+                "url": "https://twitter.com/snowy_nishu"
+            },
+            {
+                "network": "Github",
+                "username": "snowynishu786",
+                "url": "https://github.com/snowynishu786"
+            },
+            {
+                "network": "linkedin",
+                "username": "Rakshita Meena",
+                "url": "https://www.linkedin.com/in/snowy-nishu-817076172/"
+            },
+            {
+                "network": "Instagram",
+                "username": "snowy_nishu",
+                "url": "https://www.instagram.com/snowy_nishu/"
+            }
+        ]
+    },
+    "education": [
+        {
+            "institution": "Indian Institute of Information Technology,Kota",
+            "area": "Engineering",
+            "studyType": "Bachelor of Technology",
+            "courses": [
+                "Computer Science & Engineering"
+            ]
+        }
+    ],
+    "skills": [
+        {
+            "level": "Beginner",
+            "keywords": [
+                "HTML",
+                "CSS",
+                "C/C++",
+                "Java"
+            ]
+        }
+    ],
+    "languages": [
+        {
+            "language": "English",
+            "fluency": "Native speaker"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Photography",
+            "keywords": [
+                "Photography"
+            ]
+        },
+        {
+            "name": "Drawing",
+            "keywords": [
+                "Doodling"
+            ]
+        }
+    ],
+    "references": []
+}
